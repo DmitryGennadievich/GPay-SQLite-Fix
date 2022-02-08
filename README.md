@@ -41,6 +41,10 @@ monetize this module or its content without all parties permission. The module c
 for this intent.**
 
 
+### Changelog ###
+
+Please see: https://github.com/stylemessiah/GPay-SQLite-Fix/blob/main/CHANGELOG.md
+
 
 ### Project Stats ###
 
