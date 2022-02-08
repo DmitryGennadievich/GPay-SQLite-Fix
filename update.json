@@ -1,0 +1,6 @@
+{ 
+  "version": "v2.8",
+  "versionCode": 28,
+  "zipUrl": "https://github.com/stylemessiah/GPay-SQLite-Fix/releases/download/28/GPaySQLiteFix.v.2.8.zip",
+  "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GPay-SQLite-Fix/main/changelog.md"
+}
